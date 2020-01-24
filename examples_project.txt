@@ -1,0 +1,176 @@
+ 1493  python project.py -q "Where is gene APOE?"
+ 1496  python project.py -q "Where is gene APOE?"
+ 1512  python project.py -q "Where is gene ?"
+ 1513  python project.py -q "Where is gene NM_?"
+ 1514  python project.py -q "Where is gene chromosome 2 site 12345-12345?"
+ 1515  python project.py -q "Where is gene chromosome 2 site 12345 12345?"
+ 1516  python project.py -q "Where is gene chromosome 2 site 12345?"
+ 1517  python project.py -q "Where is gene chromosome> 2 site 12345?"
+ 1518  python project.py -q "Where is gene chromosome> 2 : 12345?"
+ 1519  python project.py -q "Where is gene chromosome 2 : 12345?"
+ 1520  python project.py -q "Where is gene chromosome 2 position  12345?"
+ 1521  python project.py -q "Where is gene chromosome2:2345"
+ 1522  python project.py -q "Where is gene A>G 2:2345"
+ 1523  python project.py -q "Where is gene A>G chromosome2:2345"
+ 1524  python project.py -q "Where is gene erf"
+ 1525  python project.py -q "Where is gene "
+ 1526  python project.py -q "'Where chr12:12345 A>G "
+ 1528  python project.py -h
+ 1571  python project.py
+ 1572  python project.py -q 'is numeric?'
+ 1573  python project.py -h
+ 1577  python project.py -h
+ 1578  python project.py --help
+ 1582  python project.py --help
+ 1583  python project.py -q 'what da fuck?;
+ 1585  python project.py -q 'what da fuck?;
+ 1587  python project.py -q what da fuck
+ 1588  python project.py -q 'what da fuck'
+ 1589  python project.py 
+ 1590  python project.py -q 'What is the position of APOE?'
+ 1642  python project.py -q 'What is the position of APOE?'
+ 1643  python project1.py -q 'What is the position of APOE?'
+ 1644  python project1.py -q 'Where is gene erf:c.100C>G'?
+ 1645  python project1.py -q 'Where is gene apoe:c.100C>G'?
+ 1646  python project1.py -q 'Where is gene SF3B1:c.100C>G'?
+ 1660  python project.py -q 'Where is gene apoe:c.100C>G'?
+ 1662  python project.py -q 'Where is gene SF3B1:c.100C>G'?
+ 1663  python project.py -q 'Where is gene ADH1B:c.100C>G'?
+ 1664  python project.py -q 'Where is gene prxl2b:c.100C>G'?
+ 1665  python project.py -q 'Where is gene prxl2a:c.100C>G'?
+ 1666  python project.py -q 'Where is gene apoe:c.100C>G'?
+ 1692  python project.py -q 'Where is gene prxl2a:c.100C>G'?
+ 1706  python project.py -q 'Where is gene prxl2a:c.100C>G'?
+ 1707  python project.py -q 'Where is gene prxl2a'?
+ 1708  python project.py -q 'Where is gene ENST00000606162.5:c.100A>G'?
+ 1709  python project.py -q 'Where is gene NM_00000606162.5:c.100A>G'?
+ 1710  python project.py -q 'Where is gene ENST00000606162.5:c.100A>G'?
+ 1711  python project.py -q 'Where is gene A>G at chromosome 12 position 564378'?
+ 1712  python project.py -q 'Where is gene apoe'?
+ 1713  python project.py -q 'Where is gene NM_001350497.1'?
+ 1714  python project.py -q 'Where is RS58991260'?
+ 1715  python project.py -q 'Where is rs7412'?
+ 1716  python project.py -q 'Where is rs11615'?
+ 1717  python project.py -q 'Where is rs1799966'?
+ 1718  python project.py -q 'Where is rs429358'?
+ 1719  python project.py -q 'Where is apoe'?
+ 1720  python project.py -q 'Where is rs429358'?
+ 1722  python project.py -q 'Where is rs429358'?
+ 1727  python project.py -q 'Where is rs429358'?
+ 1728  python project.py -q 'Where is rs429358'?
+ 1729  cat history | grep python project.py
+ 1730  history | grep python project.py
+ 1732  history | grep 'python project.py'
+ 1733  history | grep 'python project.py' > examples.terminal
+ 1734  python project.py -q 'Where is gene SF3B1:c.100C>G'?
+ 1735  python project.py -q 'Where is gene NM_00000606162.5:c.100A>G'?
+ 1736  python project.py -q 'Where is rs429358'?
+ 1737  python project.py -q 'Where is rs318974'?
+ 1738  python project.py -q 'Where is rs429358'?
+ 1739  python project.py -q 'Where is rs318974'?
+ 1740  python project.py -q 'Where is rs429358'?
+ 1741  python project.py -q 'Where is rs1403543'?
+ 1742  history | grep 'python project.py'
+ 1743  python project.py -q 'Where is gene NM_00000606162.5:c.100A>G'?
+ 1744  python project.py -q 'Where is gene ENST00000606162.5:c.100A>G'?
+ 1745  python project.py -q 'Where is gene NM_00000606162.5:c.100A>G'?
+ 1746  python project.py -q 'Where is gene ENST00000606162.5:c.100A>G'?
+ 1747  python project.py -q 'Where is gene NM_00000606162.5:c.100A>G'?
+ 1749  python project.py -q 'Where is gene NM_000041.4:c.100A>G'?
+ 1750  python project.py -q 'Where is gene NM_000041.4'?
+ 1751  python project.py -q 'Where is gene NM_000041.4:c.100A>G'?
+ 1752  history | grep 'python project.py -q'
+ 1753  python project.py -q 'Where is rs429358'?
+ 1754  python project.py -q 'Where is gene ENST00000606162.5:c.100A>G'?
+ 1755  python project.py -q 'Where is gene NM_000041.4:c.100A>G'?
+ 1756  python project.py -q 'Where is gene SF3B1:c.100C>G'?
+ 1757  python project.py -q 'Where is gene NM_000041.4:c.100A>G'?
+ 1759  python project.py -q 'Where is gene NM_000041.4:c.100A>G'?
+ 1760  python project.py -q 'Where is gene SF3B1:c.100C>G'?
+ 1785  python project.py -q 'Where is gene NM_000041.4:c.100A>G'?
+ 1786  python project.py -q 'Where is gene ENST00000606162.5:c.100A>G'?
+ 1787  history | grep 'python project.py -q'
+ 1788  python project.py -q 'Where is rs1403543'?
+ 1789  python project.py -q 'Where is rs1403543'?python project.py -q 'Where is gene A>G at chromosome 12 position 564378'?
+ 1790  python project.py -q 'Where is gene A>G at chromosome 12 position 564378'?
+ 1791  python project.py -q 'Where is gene prxl2a:c.100C>G'?
+ 1792  python project.py -q 'What is the position of APOE?'
+ 1793  python project.py -q 'Where is gene NM_00000606162.5:c.100A>G'?
+ 1794  python project.py -q 'what da fuck?;
+ 1795  python project.py -q 'what da fuck?
+ 1796  python project.py -q 'what da fuck?'
+ 1797  python project.py -q 'what da fuck?;'
+ 1798  python project.py -q "Where is gene A>G 2:2345"
+ 1799  python project.py -q "Where is gene A>G 2:234510"
+ 1800  python project.py -q "Where is gene A>G chromosome2:2345"
+ 1801  python project.py -q "Where is gene chromosome2:2345"
+ 1802  python project.py -q "Where is gene chromosome2:234510"
+ 1803  python project.py -q "Where is gene chr2:234510"
+ 1804  python project.py -q "Where is gene chromosome 2 position  234510?"
+ 1805  python project.py -q "Where is gene chromosome 2 and position  234510?"
+ 1806  python project.py -q "Where is gene chr2:234510A>G"
+ 1807  python project.py -q 'Where is gene ADH1B:c.100C>G'?
+ 1808  python project.py -q 'Where is gene ADH1B'?
+ 1809  python project.py -q 'Where is gene ADH1B:c.100C>G'?
+ 1829  python project.py -q 'Where is gene ADH1B:c.100C>G?'
+ 1830  python project.py -q 'What is the position of APOE?'
+ 1831  python project.py -q 'Where is gene apoe:c.100C>G'?
+ 1832  python project.py -q 'Where is RS58991260'?
+ 1833  python project.py -q 'Where is rs1799966'?
+ 1834  python project.py -q 'Where is gene apoe:c.100C>G'?
+ 1835  python project.py -q 'Where is gene ADH1B:c.100C>G?'
+ 1837  python project.py -q 'Where is gene ADH1B:c.100C>G?'
+ 1838  python project.py -q 'Where is gene ADH1B?'
+ 1839  python project.py -q 'Where is gene apoe:c.100C>G'?
+ 1840  python project.py -q 'Where is gene ADH1B:c.100C>G?'
+ 1841  python project.py -q 'Where is gene apoe:c.100C>G'?
+ 1842  python project.py -q 'Where is gene ADH1B?'
+ 1843  python project.py -q 'Where is gene apoe:c.100C>G'?
+ 1844  python project.py -q 'Where is gene ADH1B:c.100C>G?'
+ 1845  python project.py -q 'Where is gene NINJ1:c.100C>G?'
+ 1846  python project.py -q 'Where is gene NINJ2:c.100C>G?'
+ 1848  python project.py -t 'Where is gene NINJ2:c.100C>G?'
+ 1868  history | grep 'python project'
+ 1869  history | grep 'python project'> examples.terminal 
+ 1872  python project.py -q 'Where is gene NINJ1:c.100C>G?'
+ 1881  python project.py -t 'Where is gene NINJ2:c.100C>G?'
+ 1884  python project.py -t 'Where is gene NINJ2:c.100C>G?'
+ 1890  python project.py -t 'Where is gene NINJ2:c.100C>G?'
+ 1892  python project.py -t 'Where is gene NINJ2:c.100C>G?'
+ 1893  python project.py -q 'Where is gene NINJ2:c.100C>G?'
+ 1895  python project.py -q 'Where is gene NINJ2:c.100C>G?'
+ 1921  python project.py -t 'Where is gene NINJ2:c.100C>G?'
+ 1922  python project.py -q 'Where is gene NINJ2:c.100C>G?'
+ 1923  python project.py -q 'Where is gene rs429358 ?'
+ 1924  python project.py -q 'Where is gene NM_00000606162.5:c.100A>G'?
+ 1925  python project.py -q 'Where is gene SF3B1:c.100C>G'?
+ 1926  python project.py -q 'Where is gene NM_000041.4:c.100A>G'?
+ 1927  python project.py -q 'Where is gene 2:156456321'?
+ 1928  python project.py -q 'Where is A>T 2:156456321'?
+ 1929  python project.py -q 'ENST00000438166.6'?
+ 1930  python project.py -q 'Where is A>T 2:156456321'?
+ 1931  python project.py -q 'ENST00000438166.6'?
+ 1932  python project.py -q 'Where is gene NM_000041.4:c.100A>G'?
+ 1933  python project.py -q 'Where is gene NINJ2:c.100C>G?'
+ 1934  python project.py -q 'Where is gene rs429358 ?'
+ 1935  python project.py -q 'ENST00000438166.6'?
+ 1936  python project.py -q 'Where is gene SF3B1:c.100C>G'?
+ 1937  python project.py -q 'ENST00000438166.6'?
+ 1938  python project.py -q 'Where is gene rs429358 ?'
+ 1939  python project.py -q 'Where is gene NINJ2:c.100C>G?'
+ 1940  python project.py -q 'Where is gene NM_000041.4:c.100A>G'?
+ 1941  python project.py -q 'Where is gene prxl2b:c.100C>G'?
+ 1942  python project1.py -q 'Where is gene erf:c.100C>G'?
+ 1943  python project.py -q 'Where is gene erf:c.100C>G'?
+ 1944  python project.py -q 'Where is gene SF3B1:c.100C>G'?
+ 1945  python project.py -q 'Where is gene ADH1B:c.100C>G'?
+ 1946  python project.py -q 'Where is gene prxl2a:c.100C>G'?
+ 1947  python project.py -q 'Where is gene SF3B1:c.100C>G'?
+ 1997  python project.py -q PRXL2B
+ 1999  python project.py -q 'Where is gene SF3B1:c.100C>G'?
+ 2000  history | grep 'python project"
+history | grep 'python project'
+ 2001  history | grep 'python project"
+history | grep 'python project'
+ 2002  history | grep 'python project'
+ 2003  history | grep 'python project' > examples_project.txt
